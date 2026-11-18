@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]==21.6
+qrcode[pil]==7.4.2
+Pillow>=10.0.0
+psycopg[binary]==3.2.3
+tzdata
